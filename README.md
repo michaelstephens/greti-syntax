@@ -2,7 +2,7 @@
 
 A subtle dark colored syntax theme for Atom based off of Jesse Weed's [Seti-Syntax](https://github.com/jesseweed/seti-syntax).
 
-This is a softer version of Seti-Syntax crated for [Isotope-UI](https://github.com/braver/isotope-ui).
+This is a softer version of Seti-Syntax created for [Isotope-UI](https://github.com/braver/isotope-ui).
 
 ![Screenshot](https://github.com/mikestephens/greti-syntax/raw/master/screenshot.png)
 
