@@ -1,7 +1,7 @@
 {
   "name": "greti-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Greti Syntax - A subtle dark colored theme for Atom based off Seti Syntax.",
   "repository": {
     "type": "git",
