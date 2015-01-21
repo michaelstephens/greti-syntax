@@ -1,0 +1,36 @@
+{
+  "name": "greti-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Greti Syntax - A subtle dark colored theme for Atom based off Seti Syntax.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikestephens/greti-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.99.0"
+  },
+  "readme": "# Greti Syntax\n\nA subtle dark colored syntax theme for Atom based off [Seti Syntax](https://github.com/jesseweed/seti-syntax). [Screenshot](https://github.com/mikestephens/greti-syntax/raw/master/screenshot.png)\n\n\n### Custom Icons\n[ ![Screenshot](https://github.com/mikestephens/greti-syntax/raw/master/_icons/circular/circular-128x128.png) ](_icons/circular/)\n[ ![Screenshot](https://github.com/mikestephens/greti-syntax/raw/master/_icons/rounded/rounded-128x128.png) ](_icons/rounded/)\n[ ![Screenshot](https://github.com/mikestephens/greti-syntax/raw/master/_icons/squared/squared-128x128.png) ](_icons/squared/)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/mikestephens/greti-syntax/issues"
+  },
+  "homepage": "https://github.com/mikestephens/greti-syntax",
+  "_id": "greti-syntax@0.1.1",
+  "dist": {
+    "shasum": "bebc13422147081863e3ba62a8d1a22937cfe86e"
+  },
+  "_resolved": "/private/var/folders/zn/9bkkdc5x0nlfyc817wkw1nh9yn5f_9/T/d-115020-1577-gahsri/package.tgz",
+  "_from": "/private/var/folders/zn/9bkkdc5x0nlfyc817wkw1nh9yn5f_9/T/d-115020-1577-gahsri/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
