@@ -1,4 +1,4 @@
-# Seti Syntax
+# Greti Syntax
 
 A subtle dark colored syntax theme for Atom based off of Jesse Weed's [Seti-Syntax](https://github.com/jesseweed/seti-syntax).
 
