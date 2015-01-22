@@ -1,3 +1,6 @@
+## 0.3.0
+* Updated Gutter highlighting
+
 ## 0.2.0
 * Updated Gutter Color
 

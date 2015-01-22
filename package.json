@@ -17,12 +17,12 @@
     "url": "https://github.com/mikestephens/greti-syntax/issues"
   },
   "homepage": "https://github.com/mikestephens/greti-syntax",
-  "_id": "greti-syntax@0.1.1",
+  "_id": "greti-syntax@0.3.0",
   "dist": {
     "shasum": "bebc13422147081863e3ba62a8d1a22937cfe86e"
   },
-  "_resolved": "/private/var/folders/zn/9bkkdc5x0nlfyc817wkw1nh9yn5f_9/T/d-115020-1577-gahsri/package.tgz",
-  "_from": "/private/var/folders/zn/9bkkdc5x0nlfyc817wkw1nh9yn5f_9/T/d-115020-1577-gahsri/package.tgz",
+  "_resolved": "file:../d-115021-14735-11vmi7o/package.tgz",
+  "_from": "../d-115021-14735-11vmi7o/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
@@ -32,5 +32,6 @@
       ]
     },
     "folders": []
-  }
+  },
+  "_shasum": "a21070f6a7ef0ce61c7e9ac1f4379dba7feb578d"
 }
