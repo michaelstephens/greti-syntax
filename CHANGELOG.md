@@ -1,3 +1,9 @@
+## 0.5.0
+* Updated deprecated syntax
+
+## 0.4.0
+* Updated Gutter background color
+
 ## 0.3.0
 * Updated Gutter highlighting
 
