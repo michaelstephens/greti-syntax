@@ -1,7 +1,7 @@
 {
   "name": "greti-syntax",
   "theme": "syntax",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Greti Syntax - A subtle dark gray colored theme for Atom based off Seti Syntax originally made for Isotope-UI.",
   "repository": {
     "type": "git",
